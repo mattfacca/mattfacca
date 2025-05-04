@@ -70,8 +70,6 @@
 - 🐦 Twitter/X: [@mattfacca](https://twitter.com/mattfacca)
 - 🧑‍💻 Linkedin: [Matheus Facca](https://www.linkedin.com/in/matt-facca/)
 
- Profile Visitor Counter
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mattfacca&style=plastic&color=blue" alt="Profile views" />
 </p>
